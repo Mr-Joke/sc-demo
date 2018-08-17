@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sc-register" />
+        <module name="sc-server" />
+        <module name="sc-service-config-server" />
+        <module name="sc-service-feign" />
+        <module name="sc-service-ribbon" />
+        <module name="sc-service-zuul" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
