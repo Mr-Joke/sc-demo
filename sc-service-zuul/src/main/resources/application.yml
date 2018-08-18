@@ -20,3 +20,6 @@ zuul:
     eureka-server:
       path: /eureka-server/**
       serviceId: eureka-server
+    config-client:
+      path: /config-client/**
+      serviceId: service-config-client

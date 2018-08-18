@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/sc-service-feign/pom.xml" />
         <option value="$PROJECT_DIR$/sc-service-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/sc-service-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-service-config-client/pom.xml" />
       </list>
     </option>
   </component>

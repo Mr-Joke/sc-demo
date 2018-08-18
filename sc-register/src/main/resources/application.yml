@@ -14,7 +14,7 @@ eureka:
     #自我保护：一个服务长时间没有发送心跳包，eureka也不会将其删除，默认为true。
     enable-self-preservation: false
     #在Eureka服务器获取不到集群里对等服务器上的实例时，需要等待的时间，单位为毫秒，默认为1000 * 60 * 5
-    wait-time-in-ms-when-sync-empty: 0
+    wait-time-in-ms-when-sync-empty: 1
 
 spring:
   application:

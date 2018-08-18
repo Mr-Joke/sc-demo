@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sc-demo.iml" filepath="$PROJECT_DIR$/sc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-register/sc-register.iml" filepath="$PROJECT_DIR$/sc-register/sc-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-server/sc-server.iml" filepath="$PROJECT_DIR$/sc-server/sc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-service-config-client/sc-service-config-client.iml" filepath="$PROJECT_DIR$/sc-service-config-client/sc-service-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-service-config-server/sc-service-config-server.iml" filepath="$PROJECT_DIR$/sc-service-config-server/sc-service-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-service-feign/sc-service-feign.iml" filepath="$PROJECT_DIR$/sc-service-feign/sc-service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-service-ribbon/sc-service-ribbon.iml" filepath="$PROJECT_DIR$/sc-service-ribbon/sc-service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-service-zuul/sc-service-zuul.iml" filepath="$PROJECT_DIR$/sc-service-zuul/sc-service-zuul.iml" />
+    </modules>
+  </component>
+</project>
