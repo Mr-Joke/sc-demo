@@ -11,11 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
  **/
 @RestController
 public class HelloConfigClientController {
-    @Value("${foo}")
-    private String foo;
+    @Value("${mrjoke}")
+    private String mrjoke;
 
     @GetMapping("/hello")
     public String hello(){
-        return "config name :" + foo;
+        return "config name :" + mrjoke;
     }
 }
