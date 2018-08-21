@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-register" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-service-bus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-service-config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-service-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-service-feign" charset="UTF-8" />

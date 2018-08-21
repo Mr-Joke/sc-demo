@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="sc-register" />
         <module name="sc-server" />
+        <module name="sc-service-bus" />
         <module name="sc-service-config-client" />
         <module name="sc-service-config-server" />
         <module name="sc-service-feign" />
@@ -19,6 +20,7 @@
       <module name="sc-demo" target="1.8" />
       <module name="sc-register" target="1.8" />
       <module name="sc-server" target="1.8" />
+      <module name="sc-service-bus" target="1.8" />
       <module name="sc-service-config-client" target="1.8" />
       <module name="sc-service-config-server" target="1.8" />
       <module name="sc-service-feign" target="1.8" />

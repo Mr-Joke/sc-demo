@@ -22,6 +22,7 @@
         <module>sc-service-zuul</module>
         <module>sc-service-config-server</module>
         <module>sc-service-config-client</module>
+        <module>sc-service-bus</module>
     </modules>
 
     <properties>
