@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/sc-service-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/sc-service-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/sc-service-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-service-zipkin-client/pom.xml" />
       </list>
     </option>
   </component>

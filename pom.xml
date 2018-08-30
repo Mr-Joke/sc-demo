@@ -22,7 +22,8 @@
         <module>sc-service-zuul</module>
         <module>sc-service-config-server</module>
         <module>sc-service-config-client</module>
-        <module>sc-service-bus</module>
+        <!--<module>sc-service-bus</module>-->
+        <module>sc-service-zipkin-client</module>
     </modules>
 
     <properties>

@@ -1,6 +1,8 @@
 package com.mrjoke.example.scservicefeign.controller;
 
 import com.mrjoke.example.scservicefeign.service.FeignService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -17,11 +19,14 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 public class HelloFeignController {
+    private static Logger logger = LoggerFactory.getLogger(HelloFeignController.class);
     @Autowired
     private FeignService feignService;
 
     @RequestMapping("/hello")
     public String hello(String name){
+        logger.info("feign service : " + name);
         return feignService.hello(name);
     }
+
 }

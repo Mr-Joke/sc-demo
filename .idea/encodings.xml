@@ -9,6 +9,7 @@
     <file url="file://$PROJECT_DIR$/sc-service-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-service-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-service-zipkin-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sc-service-zuul" charset="UTF-8" />
   </component>
 </project>

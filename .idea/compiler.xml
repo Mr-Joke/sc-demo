@@ -13,19 +13,12 @@
         <module name="sc-service-config-server" />
         <module name="sc-service-feign" />
         <module name="sc-service-ribbon" />
+        <module name="sc-service-zipkin-client" />
         <module name="sc-service-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sc-demo" target="1.8" />
-      <module name="sc-register" target="1.8" />
-      <module name="sc-server" target="1.8" />
       <module name="sc-service-bus" target="1.8" />
-      <module name="sc-service-config-client" target="1.8" />
-      <module name="sc-service-config-server" target="1.8" />
-      <module name="sc-service-feign" target="1.8" />
-      <module name="sc-service-ribbon" target="1.8" />
-      <module name="sc-service-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
